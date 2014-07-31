@@ -19,3 +19,5 @@
    :gen-pset
    :gen-map-from-points
    :gen-map-cbr-awk))
+(defpackage #:com.ckl.filehandle
+  (:use :cl))
